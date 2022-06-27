@@ -34,7 +34,7 @@ Male riders show particularly heavy usage during weekdays, especially on Thursda
 
 In a breakdown of usage by starttime and gender, it's clear that both males and females use bike share during morning and evenings (likely traveling to and from work), with more males overall. 
 
-To see my CitiBike Story on Tableau, visit my dashboard here: [Dashboard](https://public.tableau.com/app/profile/nikki.heaston/viz/CitiBike_Story_16563038328030/TripsbyGenderWeekdayperHour)
+To see my CitiBike Story on Tableau, visit my dashboard here: [Dashboard](https://public.tableau.com/app/profile/nikki.heaston)
 
 ## Summary
 Overall, males tend to use bike shares much more than females, likely traveling to and from work during the weekdays. Bike share users are a good source of stable income as they tend to be subscribers. To provide even more in depth analysis, I would create two additional visualizations:
